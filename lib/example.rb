@@ -4,4 +4,4 @@ def phrase_method
 # puts phrase
 # puts phrase
 end
-phrase_method
+
